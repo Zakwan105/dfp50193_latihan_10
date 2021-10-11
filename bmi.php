@@ -10,8 +10,8 @@
     <h1>BMI</h1>
 
     <?php
-    $berat = 45;
-    $tinggi = 1.7;
+    $berat = 60;
+    $tinggi = 1.6;
     $bmi = 0;
     ?>
 
